@@ -3,7 +3,7 @@ Scans of all notes from lectures in my applied mathematics PhD program at UC Dav
 
 ## Fall 2015
 ### [201A - Analysis]() w/ Prof. Bruno Nachtergaele
-### [207A - Methods in Applied Mathematics (Dynamical Systems)]() w/ Prof. Sam Walcott
+### [207A - Methods in Applied Mathematics (Dynamical Systems)](https://github.com/drruumms/lecture_notes/blob/master/mat207A_notes.pdf) w/ Prof. Sam Walcott
 
 ## Winter 2016
 ### [201B - Analysis]() w/ Prof. Alexander Soshnikov
