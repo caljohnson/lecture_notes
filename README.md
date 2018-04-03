@@ -21,7 +21,7 @@ Scans of all notes from lectures in my applied mathematics PhD program at UC Dav
 ### [228B - Numerical Solution of PDEs (ii)](https://github.com/drruumms/lecture_notes/blob/master/mat228B_notes.pdf) w/ Prof. Guy
 
 ## Spring 2017
-### [280 - Theoretical Foundations of Machine Learning ](https://github.com/drruumms/lecture_notes/blob/master/mat280_wolf_notes.pdf) w/ Prof. Michael Wolf (Technical University of Munich)
+### [280 - Mathematical Foundations of Machine Learning ](https://github.com/drruumms/lecture_notes/blob/master/mat280_wolf_notes.pdf) w/ Prof. Michael Wolf (Technical University of Munich)
 
 ## Summer 2017
 ### [LANL Short Course in Machine Learning](https://github.com/drruumms/lecture_notes/blob/master/lanl_ml_shortcourse_notes.pdf) w/ Prof. Melanie Mitchell (Portland State University)
