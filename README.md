@@ -15,19 +15,22 @@ Scans of all notes from lectures in my applied mathematics PhD program at UC Dav
 
 ## Fall 2016
 ### 236A - Stochastic Differential Equations
-### 228A - Numerical Solution of PDEs (i)
+### [228A - Numerical Solution of PDEs (i)](https://github.com/drruumms/lecture_notes/blob/master/mat228A_notes.pdf)
 
 ## Winter 2017
 ### 228B - Numerical Solution of PDEs (ii)
 
 ## Spring 2017
-### 280 - Theoretical Foundations of Machine Learning
+### [280 - Theoretical Foundations of Machine Learning ](https://github.com/drruumms/lecture_notes/blob/master/mat280_wolf_notes.pdf)
+
+## Summer 2017
+### [LANL Short Course in Machine Learning](https://github.com/drruumms/lecture_notes/blob/master/lanl_ml_shortcourse_notes.pdf)
 
 ## Fall 2017
 ### 226A - Numerical Techniques
 
 ## Winter 2018
-### 226B - Large-Scale Matrix Computations
+### [226B - Large-Scale Matrix Computations](https://github.com/drruumms/lecture_notes/blob/master/mat226B_notes.pdf)
 
 
 
