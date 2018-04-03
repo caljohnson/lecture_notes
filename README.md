@@ -18,7 +18,7 @@ Scans of all notes from lectures in my applied mathematics PhD program at UC Dav
 ### [228A - Numerical Solution of PDEs (i)](https://github.com/drruumms/lecture_notes/blob/master/mat228A_notes.pdf)
 
 ## Winter 2017
-### 228B - Numerical Solution of PDEs (ii)
+### [228B - Numerical Solution of PDEs (ii)](https://github.com/drruumms/lecture_notes/blob/master/mat228B_notes.pdf)
 
 ## Spring 2017
 ### [280 - Theoretical Foundations of Machine Learning ](https://github.com/drruumms/lecture_notes/blob/master/mat280_wolf_notes.pdf)
@@ -27,7 +27,7 @@ Scans of all notes from lectures in my applied mathematics PhD program at UC Dav
 ### [LANL Short Course in Machine Learning](https://github.com/drruumms/lecture_notes/blob/master/lanl_ml_shortcourse_notes.pdf)
 
 ## Fall 2017
-### 226A - Numerical Techniques
+### [226A - Numerical Techniques](https://github.com/drruumms/lecture_notes/blob/master/mat226A_notes.pdf)
 
 ## Winter 2018
 ### [226B - Large-Scale Matrix Computations](https://github.com/drruumms/lecture_notes/blob/master/mat226B_notes.pdf)
