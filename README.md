@@ -7,11 +7,11 @@ Scans of all notes from lectures in my applied mathematics PhD program at UC Dav
 
 ## Winter 2016
 ### [201B - Analysis]() w/ Prof. Alexander Soshnikov
-### [207B - Methods in Applied Mathematics (Calculus of Variations and PDEs)]() w/ Prof. John Hunter
+### [207B - Methods in Applied Mathematics (Calculus of Variations and PDEs)](https://github.com/drruumms/lecture_notes/blob/master/mat207B_notes.pdf) w/ Prof. John Hunter
 
 ## Spring 2016
 ### [201C - Analysis]() w/ Prof. Becca Thomases
-### [207C - Methods in Applied Mathematics (Asymptotics)]() w/ Prof. Robert Guy
+### [207C - Methods in Applied Mathematics (Asymptotics)](https://github.com/drruumms/lecture_notes/blob/master/mat207C_notes.pdf) w/ Prof. Robert Guy
 
 ## Fall 2016
 ### [236A - Stochastic Differential Equations]() w/ Prof. Soshnikov
